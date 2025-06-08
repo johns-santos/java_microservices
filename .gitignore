@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 
 jdk-21.0.7+6
-.Vscode
+.vscode
 
 ### STS ###
 .apt_generated
